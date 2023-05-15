@@ -8,6 +8,7 @@ public class TApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(TApplication.class, args);
+		System.out.println("CHERRY PIIIICK");
 
 	}
 }
