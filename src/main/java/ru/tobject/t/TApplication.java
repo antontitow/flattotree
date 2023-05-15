@@ -14,6 +14,8 @@ public class TApplication {
 		System.out.println("Start application");
 		System.out.println("Start new");
 		System.out.println("Start new");
+		System.out.println("Start new");
+		System.out.println("Start new");
 	}
 
 }
