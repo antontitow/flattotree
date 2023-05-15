@@ -10,5 +10,4 @@ public class TApplication {
 		SpringApplication.run(TApplication.class, args);
 
 	}
-
 }
