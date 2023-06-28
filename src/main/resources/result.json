@@ -1,0 +1,44 @@
+[
+  OrganizationDto
+  {
+    id=1,
+    name=
+    'RTK',
+    childs=
+  [
+    OrganizationDto
+    {
+      id=2,
+      name=
+      'Sales',
+      childs=
+    [
+      OrganizationDto
+      {
+        id=3,
+        name=
+        'Marketing',
+        childs=
+      []
+      }
+    ]
+  },
+    OrganizationDto
+    {
+      id=4,
+      name=
+      'Finance',
+      childs=
+    []
+    }
+  ]
+},
+  OrganizationDto
+  {
+    id=5,
+    name=
+    'Sber',
+    childs=
+  []
+  }
+]
